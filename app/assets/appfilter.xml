@@ -1818,6 +1818,8 @@
   <item component="ComponentInfo{it.hype.app/it.hype.app.ui.main.MainActivity}" drawable="hype" name="Hype" />
   <item component="ComponentInfo{com.zutgames.ilovehue/com.ansca.corona.CoronaActivity}" drawable="i_love_hue" name="I Love Hue" />
   <item component="ComponentInfo{com.zutgames.ilovehue2/com.unity3d.player.UnityPlayerActivity}" drawable="i_love_hue_too" name="I Love Hue Too" />
+  <item component="ComponentInfo{com.android.bbkmusic/com.android.bbkmusic.WidgetToTrackActivity}" drawable="heytap_music" name="i Music" />
+  <item component="ComponentInfo{com.android.VideoPlayer/com.android.VideoPlayer.VideoPlayer}" drawable="videos" name="i Video" />
   <item component="ComponentInfo{com.epf.main/com.epf.main.view.activity.NewLogin}" drawable="iakaun" name="i-Akaun" />
   <item component="ComponentInfo{net.i2p.android.router/net.i2p.android.I2PActivity}" drawable="i2p" name="I2P" />
   <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x" name="ibisPaint X" />
@@ -4832,7 +4834,11 @@
   <item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi" />
   <item component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}" drawable="vivaldi" name="Vivaldi Browser Snapshot" />
   <item component="ComponentInfo{br.com.vivo/br.com.vivo.MainActivity}" drawable="vivo" name="Vivo" />
+  <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="mi_browser" name="Vivo Browser" />
+  <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" name="Vivo Calendar" />
+  <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock" name="Vivo Clock" />
   <item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="compass" name="Vivo Compass" />
+  <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather" name="Vivo Weather" />
   <item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.activities.LaunchActivity}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vkontakte" name="VK" />
