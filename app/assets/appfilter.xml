@@ -4844,6 +4844,7 @@
   <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" name="Vivo Calendar" />
   <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock" name="Vivo Clock" />
   <item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="compass" name="Vivo Compass" />
+  <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="vivo_notes" name="Vivo Notes" />
   <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather" name="Vivo Weather" />
   <item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.activities.LaunchActivity}" drawable="vkontakte" name="VK" />
