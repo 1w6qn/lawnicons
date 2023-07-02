@@ -1251,6 +1251,7 @@
   <item component="ComponentInfo{com.microsoft.emmx.dev/com.microsoft.ruby.Main}" drawable="microsoft_edge_dev" name="Edge Dev" />
   <item component="ComponentInfo{com.ss.edgegestures/com.ss.edgegestures.SettingsActivity}" drawable="edge_gestures" name="Edge Gestures" />
   <item component="ComponentInfo{air.org.edupage/org.edupage.app.ui.MainActivity}" drawable="edupage" name="Edupage" />
+  <item component="ComponentInfo{moe.tarsin.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="ehviewer" name="EhViewer" />
   <item component="ComponentInfo{com.eksiteknoloji.eksisozluk/com.eksiteknoloji.eksisozluk.ui.launcher.LauncherActivity}" drawable="eksi_sozluk" name="ekşi sözlük" />
   <item component="ComponentInfo{com.eksiteknoloji.eksisozluk/md5ca6cfc07e22d3c2c787aa5e94848191a.SplashActivity}" drawable="eksi_sozluk" name="ekşi sözlük" />
   <item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="ele_me" name="ele.me" />
@@ -4334,6 +4335,7 @@
   <item component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="tapatalk_pro" name="Tapatalk Pro" />
   <item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity}" drawable="tapet" name="Tapet" />
   <item component="ComponentInfo{com.tplink.iot/com.tplink.iot.view.welcome.StartupActivity}" drawable="tapo" name="Tapo" />
+  <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap" name="taptap" />
   <item component="ComponentInfo{com.lasoo.android.target/com.lasoo.android.target.activity.SplashScreenActivity}" drawable="target" name="Target" />
   <item component="ComponentInfo{com.targo_prod.bad/com.e_i.bad.controls.activities.StartActivity}" drawable="targobank" name="TARGOBANK" />
   <item component="ComponentInfo{com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity}" drawable="tarteel" name="Tarteel" />
@@ -4843,8 +4845,10 @@
   <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="mi_browser" name="Vivo Browser" />
   <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar" name="Vivo Calendar" />
   <item component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}" drawable="clock" name="Vivo Clock" />
+  <item component="ComponentInfo{com.bbk.cloud/com.bbk.cloud.activities.BBKCloudHomeScreen}" drawable="vivo_cloud" name="Vivo Cloud" />
   <item component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}" drawable="compass" name="Vivo Compass" />
   <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="vivo_notes" name="Vivo Notes" />
+  <item component="ComponentInfo{com.vivo.upslide/com.vivo.interaction.minscreen.activity.InteractionActivity}" drawable="vivo_upslide" name="Vivo Upslide" />
   <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather" name="Vivo Weather" />
   <item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.activities.LaunchActivity}" drawable="vkontakte" name="VK" />
