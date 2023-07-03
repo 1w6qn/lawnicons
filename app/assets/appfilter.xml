@@ -734,6 +734,7 @@
   <item component="ComponentInfo{com.chess/com.chess.ui.activities.MainFragmentFaceActivity}" drawable="chess" name="Chess" />
   <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.PBEntryActivity}" drawable="cmb" name="China Merchants Bank" />
   <item component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}" drawable="cmb" name="China Merchants Bank" />
+  <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="unicom" name="China Unicom" />
   <item component="ComponentInfo{net.chordify.chordify/net.chordify.chordify.presentation.activities.navigation.NavigationActivity}" drawable="chordify" name="Chordify" />
   <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop" name="Chrome Remote Desktop" />
   <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" name="Chromium" />
@@ -2549,6 +2550,7 @@
   <item component="ComponentInfo{com.s_payment.mobiles_bezahlen/com.s_payment.mobiles_bezahlen.launcher_baa083a7a092f38e8deb2bc73613cf9c91197cf30cc045df4157288cc7937a73}" drawable="mobiles_bezahlen" name="Mobiles Bezahlen" />
   <item component="ComponentInfo{demigos.com.mobilism/demigos.com.mobilism.UI.MainActivity_}" drawable="mobilism" name="Mobilism" />
   <item component="ComponentInfo{br.com.gerenciadorfinanceiro.controller/br.com.mobills.splash.SplashScreenActivity}" drawable="mobills" name="Mobills" />
+  <item component="ComponentInfo{org.moegirl.moegirlview/org.moegirl.moegirlview.MainActivity}" drawable="moegirl" name="Moegirl" />
   <item component="ComponentInfo{com.axiel7.moelist/com.axiel7.moelist.uicompose.MainActivity}" drawable="moelist" name="MoeList" />
   <item component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}" drawable="molly" name="Molly" />
   <item component="ComponentInfo{com.mservice.momotransfer/vn.momo.platform.MainActivity}" drawable="momo" name="MoMo" />
@@ -3879,6 +3881,7 @@
   <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" name="Shelter" />
   <item component="ComponentInfo{com.miraisoft.shiori/com.miraisoft.shiori.MainActivity}" drawable="shiori" name="Shiori" />
   <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" name="Shizuku" />
+  <item component="ComponentInfo{com.shizuku.uninstaller/com.shizuku.uninstaller.MainActivity}" drawable="shizuku_runner" name="Shizuku Runner" />
   <item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" name="Shopee" />
   <item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" name="Shopee" />
   <item component="ComponentInfo{com.shopee.my/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" name="Shopee" />
@@ -5102,6 +5105,7 @@
   <item component="ComponentInfo{com.windyty.android/com.windyty.android.MainActivity}" drawable="windy" name="Windy" />
   <item component="ComponentInfo{com.wireguard.android/com.wireguard.android.activity.MainActivity}" drawable="wireguard" name="Wireguard" />
   <item component="ComponentInfo{com.transferwise.android/com.transferwise.android.activity.SplashActivity}" drawable="wise" name="Wise" />
+  <item component="ComponentInfo{com.wo.voice2/com.wo.voice2.MainActivity}" drawable="wo_mic" name="Wo Mic" />
   <item component="ComponentInfo{com.wolt.android/com.wolt.android.activities.LauncherActivity}" drawable="wolt" name="Wolt" />
   <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="woodbox" name="WoodBox" />
   <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="wordpress" name="WordPress" />
