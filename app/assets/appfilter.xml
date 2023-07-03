@@ -4928,7 +4928,8 @@
   <item component="ComponentInfo{com.archive.waybackmachine/com.archive.waybackmachine.MainActivity}" drawable="wayback_machine" name="Wayback Machine" />
   <item component="ComponentInfo{com.waymo.carapp/com.google.android.apps.car.carapp.LaunchActivity}" drawable="waymo_one" name="Waymo One" />
   <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" name="Waze" />
-  <item component="ComponentInfo{com.wrx.wazirx/com.wrx.wazirx.views.home.HomeActivity}" drawable="wazirx" name="WazirX" />  
+  <item component="ComponentInfo{com.wrx.wazirx/com.wrx.wazirx.views.home.HomeActivity}" drawable="wazirx" name="WazirX"/>
+  <item component="ComponentInfo{com.freeit.java/com.freeit.java.modules.onboarding.SplashScreenActivity}" drawable="programming_hub" name="Programming Hub"/>
   <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_os" name="Wear OS" />
   <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity}" drawable="wear_os" name="Wear OS" />
   <item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity}" drawable="weather" name="Weather" />
